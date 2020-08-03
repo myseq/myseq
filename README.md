@@ -1,6 +1,6 @@
 # About MySeq
 
-MySeq is a space for me to store my codes and configs. 
+This is the space for me to store my codes and configs. 
 
 
 <!--
