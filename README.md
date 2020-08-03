@@ -1,7 +1,6 @@
 # About MySeq
 
-A short introduction about myseq.
-
+MySeq is a space for me to store my codes and configs. 
 
 
 <!--
