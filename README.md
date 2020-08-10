@@ -1,16 +1,8 @@
-# About MySeq
-
+# MySeq
 This is the space for me to store my codes and configs. 
 
 # About ZD
-Spends most of my time in learning things, such as:
- - Network security
- - Coding (Android apps, Python/Ruby, Markdown)
- - Clouds (Google/Azure/AWS)
- - Kubernetes and docker/container
- - IoT (ESP8266 and Raspberry Pi)
- - etc.
-
+Spends most of my time in learning things, such as: - Network security (TCP/IP), Coding (Android apps, Python/Ruby, Markdown), Clouds (Google/Azure/AWS), Containers (Kubernetes/docker, LCX), IoT (ESP8266 and Raspberry Pi), and flying my Mavic Mini.
 
 ### Quick Links
  - MySeq Github Pages : https://myseq.github.io/
