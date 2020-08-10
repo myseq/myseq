@@ -2,6 +2,9 @@
 
 This is the space for me to store my codes and configs. 
 
+### Quick Links
+Github Pages : https://myseq.github.io/
+Blog : (upcoming)
 
 <!--
 **myseq/myseq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
