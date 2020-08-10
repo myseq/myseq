@@ -5,7 +5,7 @@ This is the space for me to store my codes and configs.
 # About ZD
 Spends most of my time in learning things, such as:
  - Network security
- - Coding (Android apps, Python/Ruby)
+ - Coding (Android apps, Python/Ruby, Markdown)
  - Clouds (Google/Azure/AWS)
  - Kubernetes and docker/container
  - IoT (ESP8266 and Raspberry Pi)
@@ -14,8 +14,8 @@ Spends most of my time in learning things, such as:
 
 ### Quick Links
  - MySeq Github Pages : https://myseq.github.io/
- - Blog : (upcoming)
- - Markdown reference : 
+ - Blog : https://myseq.blgospot.com/
+ - Markdown reference : https://guides.github.com/features/mastering-markdown/
 
 <!--
 **myseq/myseq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
