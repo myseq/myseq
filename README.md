@@ -2,9 +2,9 @@
 This is the space for me to store my codes and configs. 
 
 ## About ZD (myself)
-Spends most of my time in learning things, such as: - *Network security (TCP/IP), Coding (Android apps, Python/Ruby, Markdown), Clouds (Google/Azure/AWS), Containers (Kubernetes/docker, LCX), IoT (ESP8266 and Raspberry Pi), and **flying** my Mavic Mini*.
+Spends most of my time in learning things, such as: - *Network security (TCP/IP), Coding (Android apps, Python/Ruby, Markdown), Clouds (Google/Azure/AWS), Containers (Kubernetes/docker, LCX), IoT (ESP8266 and Raspberry Pi)*. 
 
-At my free time :hourglass_flowing_sand:, I would *wandering around with my motorcycle :motorcycle:; flying my Mavic Mini :helicopter:; enjoying my drinks :wine_glass: / :beers:, and reading my books :books:*.
+At my free time :hourglass_flowing_sand:, I would *wandering around with my motorcycle :motorcycle:; flying my Mavic Mini :helicopter:; enjoying my drinks :wine_glass: + :beers:, and reading my books :books:*.
 
 ### Quick Links
  - MySeq Github Pages : https://myseq.github.io/
