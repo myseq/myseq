@@ -7,7 +7,7 @@ I'm a **cmdline** _geek_, and spends most of my time in learning things, such as
 At my free time :hourglass_flowing_sand:, I would *wandering around with my motorcycle :motorcycle:; flying my Mavic Mini :helicopter:; enjoying my drinks :wine_glass: + :beers:, and reading my books :books:*.
 
 ### Quick Links
- - MySeq Github Pages : https://myseq.github.io/
+ - MySeq Github Pages : [myseq.github.io](https://myseq.github.io/ "MySeq Page : Expert")
  - Blog : https://myseq.blgospot.com/
  - Markdown reference : https://guides.github.com/features/mastering-markdown/
 
