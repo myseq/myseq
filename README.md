@@ -10,6 +10,7 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
  - MySeq Github Pages : [myseq.github.io](https://myseq.github.io/ "MySeq Page : Expert")
  - Blog : https://myseq.blgospot.com/
  - Markdown reference : https://guides.github.com/features/mastering-markdown/
+ - GitHub Flavored Markdown : https://www.tecmint.com/github-flavored-markdown/
 
 <!--
  - Fun on Markdown : [Those funny Funguloids!](https://sourceforge.net/p/funguloids/bugs/markdown_syntax "Those Funny Funguloids!") 
