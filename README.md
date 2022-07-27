@@ -8,7 +8,7 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 
 ### Quick Links
  - MySeq Github Pages : [myseq.github.io](https://myseq.github.io/ "MySeq Page : Expert")
- - Blog : https://myseq.blgospot.com/
+ - Blog : https://myseq.blogspot.com/
  - Markdown reference : https://guides.github.com/features/mastering-markdown/
  - GitHub Flavored Markdown : https://www.tecmint.com/github-flavored-markdown/
 
