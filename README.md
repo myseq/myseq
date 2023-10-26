@@ -4,10 +4,10 @@ This is the space for me to store my codes, configs and stories :speech_balloon:
 ## About ZD (myself) 💬
 I'm a **cmdline** _geek_, and spends most of my time in learning things, such as: - *Network security (TCP/IP), Coding (Android apps, Python/Ruby, Markdown), Clouds (Google/Azure/AWS), Containers (Kubernetes/docker, LCX), IoT (ESP8266 and Raspberry Pi), vim and zsh/bash*. 
 
-At my free time :hourglass_flowing_sand:, I would *wandering around with my motorcycle :motorcycle:; flying my Mavic Mini :helicopter:; enjoying my drinks :wine_glass: + :beers:, and reading books :books:*. 
+At my free time :hourglass_flowing_sand:, I would *wandering around with my motorcycle* :motorcycle:; *flying my Mavic Mini* :helicopter:; *enjoying my drinks* :wine_glass: + :beers:, and *reading books* :books:. 
 
 ### Quick Links
- - MySeq Github Pages and Blog : [http://myseq.github.io/](https://myseq.github.io/ "MySeq new blog and GitHub pages")
+ - MySeq Github Pages and Blog : [https://myseq.github.io/](https://myseq.github.io/ "MySeq new blog and GitHub pages")
  - Old Blog : https://myseq.blogspot.com/
  - Markdown reference : https://guides.github.com/features/mastering-markdown/
  - GitHub Flavored Markdown : https://www.tecmint.com/github-flavored-markdown/
