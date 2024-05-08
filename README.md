@@ -15,6 +15,12 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 ![](https://komarev.com/ghpvc/?username=myseq&color=8080FF)
 
 <!--
+ Amber: "#FFBF00" 
+ Chartreuse: "#7FFF00" 
+ Blue Bluish: "#8080FF"
+ -->
+ 
+<!--
  - Fun on Markdown : [Those funny Funguloids!](https://sourceforge.net/p/funguloids/bugs/markdown_syntax "Those Funny Funguloids!") 
 -->
 
