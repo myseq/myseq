@@ -12,6 +12,10 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
  - Markdown reference : https://guides.github.com/features/mastering-markdown/
  - GitHub Flavored Markdown : https://www.tecmint.com/github-flavored-markdown/
 
+<!-- https://github.com/pujux/badge-it -->
+
+[![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=6&padding=15&perRow=2)](https://badges.pufler.dev)
+
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=myseq&color=8080FF&&style=for-the-badge)
 
