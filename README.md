@@ -17,6 +17,9 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 
 [![Visits Badge](https://badges.pufler.dev/visits/myseq/myseq)](https://github.com/myseq)
 [![Years Badge](https://badges.pufler.dev/years/myseq)](https://myseq.github.io/)
+[![Repos Badge](https://badges.pufler.dev/repos/myseq)](https://myseq.github.io/)
+[![Gists Badge](https://badges.pufler.dev/gists/myseq)](https://myseq.github.io/)
+[![Updated Badge](https://badges.pufler.dev/updated/myseq/myseq)](https://github.com/myseq/myseq/)
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=6&padding=15&perRow=2)](https://badges.pufler.dev)
 
