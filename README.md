@@ -13,8 +13,6 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
  - GitHub Flavored Markdown : https://www.tecmint.com/github-flavored-markdown/
 
 <!-- https://github.com/pujux/badge-it -->
-[![Visits Badge](https://badges.pufler.dev/visits/myseq/myseq)]()
-
 [![Contributors Display](https://badges.pufler.dev/contributors/myseq/myseq?size=50&padding=5&perRow=10&bots=true)](https://myseq.github.io/)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/myseq)](https://github.com/myseq)
 
@@ -24,7 +22,7 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 
 [![Created Badge](https://badges.pufler.dev/created/myseq/myseq)](https://github.com/myseq)
 [![Updated Badge](https://badges.pufler.dev/updated/myseq/myseq)](https://github.com/myseq/myseq/)
-
+[![Visits Badge](https://badges.pufler.dev/visits/myseq/myseq)](https://github.com/myseq)
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=6&padding=15&perRow=3)](https://github.com/myseq/myseq/)
 
