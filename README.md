@@ -12,7 +12,8 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
  - Markdown reference : https://guides.github.com/features/mastering-markdown/
  - GitHub Flavored Markdown : https://www.tecmint.com/github-flavored-markdown/
 
-![](https://komarev.com/ghpvc/?username=myseq&color=8080FF)
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=myseq&color=8080FF&&style=for-the-badge)
 
 <!--
  Amber: "#FFBF00" 
