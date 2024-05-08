@@ -14,6 +14,7 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 
 <!-- https://github.com/pujux/badge-it -->
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/myseq/myseq)](https://github.com/myseq)
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=6&padding=15&perRow=2)](https://badges.pufler.dev)
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
