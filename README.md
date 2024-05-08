@@ -18,11 +18,11 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 [![Contributors Display](https://badges.pufler.dev/contributors/myseq/myseq?size=50&padding=5&perRow=10&bots=true)](https://myseq.github.io/)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/myseq)](https://github.com/myseq)
 
-[![Repos Badge](https://badges.pufler.dev/repos/myseq)](https://myseq.github.io/)
-[![Gists Badge](https://badges.pufler.dev/gists/myseq)](https://myseq.github.io/)
-[![Years Badge](https://badges.pufler.dev/years/myseq)](https://myseq.github.io/)
+[![Repos Badge](https://badges.pufler.dev/repos/myseq)](https://github.com/myseq)
+[![Gists Badge](https://badges.pufler.dev/gists/myseq)](https://github.com/myseq)
+[![Years Badge](https://badges.pufler.dev/years/myseq)](https://github.com/myseq)
 
-[![Created Badge](https://badges.pufler.dev/created/myseq/myseq.github.io)](https://myseq.github.io/)
+[![Created Badge](https://badges.pufler.dev/created/myseq/myseq)](https://github.com/myseq)
 [![Updated Badge](https://badges.pufler.dev/updated/myseq/myseq)](https://github.com/myseq/myseq/)
 
 
