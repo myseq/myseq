@@ -13,7 +13,7 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
  - GitHub Flavored Markdown : https://www.tecmint.com/github-flavored-markdown/
 
 <!-- https://github.com/pujux/badge-it -->
-
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=6&padding=15&perRow=2)](https://badges.pufler.dev)
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
