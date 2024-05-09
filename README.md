@@ -24,11 +24,11 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 [![Created Badge](https://badges.pufler.dev/created/myseq/myseq)](https://github.com/myseq)
 
 [![Updated Badge](https://badges.pufler.dev/updated/myseq/myseq)](https://github.com/myseq/myseq/)
-
+<!--
 [![Visits Badge](https://badges.pufler.dev/visits/myseq/myseq)](https://github.com/myseq)
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=4&padding=15&perRow=3)](https://github.com/myseq)
-
+-->
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=myseq&color=8080FF&&style=for-the-badge)
