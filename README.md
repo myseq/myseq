@@ -4,7 +4,7 @@
 <!--
 [![MySeq](https://github-widgetbox.vercel.app/api/profile?username=myseq&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 -->
-[![MySeq](https://github-widgetbox.vercel.app/api/profile?username=myseq&data=repositories,commits&theme=nautilus)]()
+[![MySeq](https://github-widgetbox.vercel.app/api/profile?username=myseq&data=repositories,stars,followers,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=myseq&color=8080FF&&style=for-the-badge)
