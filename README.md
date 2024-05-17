@@ -10,6 +10,12 @@
  - MySeq Blog : [https://myseq.github.io/](https://myseq.github.io/ "MySeq new blog and GitHub pages")
  - Old Blog : https://myseq.blogspot.com/
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=myseq&count_private=true&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://streak-stats.demolab.com?user=myseq&theme=tokyonight" width="424" /> 
+</p>
+
+
 <!-- https://github.com/pujux/badge-it -->
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/myseq)](https://github.com/myseq)
 [![Contributors Display](https://badges.pufler.dev/contributors/myseq/myseq?size=50&padding=5&perRow=10&bots=true)](https://myseq.github.io/)
