@@ -15,6 +15,11 @@
   <img src="https://streak-stats.demolab.com?user=myseq&theme=tokyonight" width="424" /> 
 </p>
 
+## About ZD (myself) 🦖 
+I'm a **cmdline** _geek_, and spends most of my time in learning things, such as: - *Network security (TCP/IP), Coding (in Android apps, Python/Ruby, Markdown), Clouds (Google/Azure/AWS), Containers (Kubernetes/docker, LCX), IoT (ESP8266 and Raspberry Pi), vim and zsh/bash*. 
+
+At my free time :hourglass_flowing_sand:, I would *wandering around with my motorcycle* :motorcycle:; *flying my Mavic Mini* :helicopter:; *enjoying my drinks* :wine_glass: + :beers:, and *reading books* :books:. 
+
 
 <!-- https://github.com/pujux/badge-it -->
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/myseq)](https://github.com/myseq)
@@ -34,10 +39,6 @@
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=4&padding=15&perRow=3)](https://github.com/myseq)
 -->
 
-## About ZD (myself) 🦖 
-I'm a **cmdline** _geek_, and spends most of my time in learning things, such as: - *Network security (TCP/IP), Coding (in Android apps, Python/Ruby, Markdown), Clouds (Google/Azure/AWS), Containers (Kubernetes/docker, LCX), IoT (ESP8266 and Raspberry Pi), vim and zsh/bash*. 
-
-At my free time :hourglass_flowing_sand:, I would *wandering around with my motorcycle* :motorcycle:; *flying my Mavic Mini* :helicopter:; *enjoying my drinks* :wine_glass: + :beers:, and *reading books* :books:. 
 
 <!--
  Amber: "#FFBF00" 
