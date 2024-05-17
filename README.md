@@ -13,11 +13,11 @@
  - MySeq Blog : [https://myseq.github.io/](https://myseq.github.io/ "MySeq new blog and GitHub pages")
  - Old Blog : https://myseq.blogspot.com/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![MySeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=myseq&show_icons=true&theme=merko)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=myseq&count_private=true&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://streak-stats.demolab.com?user=myseq&theme=tokyonight" width="424" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=myseq&count_private=true&show_icons=true&theme=merko" width="400" />
+  <img src="https://streak-stats.demolab.com?user=myseq&theme=merko" width="424" /> 
 </p>
 
 ## About ZD (myself) 🦖 
