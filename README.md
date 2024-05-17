@@ -1,7 +1,10 @@
 ### Hi there, welcome to **`MySeq`**. 
 ### This is the space to store all my *codes, configs and stories* :speech_balloon:. 
 
+<!--
 [![MySeq](https://github-widgetbox.vercel.app/api/profile?username=myseq&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+-->
+[![MySeq](https://github-widgetbox.vercel.app/api/profile?username=myseq&data=repositories,commits&theme=nautilus)]()
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=myseq&color=8080FF&&style=for-the-badge)
