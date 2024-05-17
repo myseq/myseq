@@ -1,4 +1,4 @@
-### Hi there, welcome to ***`MySeq`***. 
+### Hi there, welcome to **`MySeq`**. 
 ### This is the space to store all my *codes, configs and stories* :speech_balloon:. 
 
 [![MySeq](https://github-widgetbox.vercel.app/api/profile?username=myseq&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
