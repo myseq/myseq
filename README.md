@@ -18,7 +18,7 @@
 -->
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=myseq&count_private=true&show_icons=true&theme=merko" width="400" />
-  <img src="https://streak-stats.demolab.com?user=myseq&theme=merko" width="424" /> 
+  <!-- <img src="https://streak-stats.demolab.com?user=myseq&theme=merko" width="424" />  -->
 </p>
 
 ## About ZD (myself) 🦖 
