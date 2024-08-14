@@ -45,6 +45,10 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=4&padding=15&perRow=3)](https://github.com/myseq)
 -->
 
+## Blog Posts
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
  Amber: "#FFBF00" 
