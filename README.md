@@ -79,3 +79,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[githubpages]: https://myseq.github.io/
+[blogspot]: https://myseq.blogspot.com/
