@@ -10,8 +10,8 @@
 ![](https://komarev.com/ghpvc/?username=myseq&color=8080FF&&style=for-the-badge)
 
 ## Quick Links
- - MySeq Blog : [https://myseq.github.io/](https://myseq.github.io/ "MySeq new blog and GitHub pages")
- - Old Blog : https://myseq.blogspot.com/
+ - [MySeq Blog][githubpages].
+ - [Old Blog][blogspot].
 
 <!-- https://github.com/anuraghazra/github-readme-stats 
 ![MySeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=myseq&show_icons=true&theme=merko)
