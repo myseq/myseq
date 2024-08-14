@@ -45,6 +45,7 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 [![Last Stars Display](https://badges.pufler.dev/last-stars/myseq?count=4&padding=15&perRow=3)](https://github.com/myseq)
 -->
 
+<!-- https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
 ## Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
