@@ -49,6 +49,11 @@ At my free time :hourglass_flowing_sand:, I would *wandering around with my moto
 ## Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Moving to GitHub](https://myseq.blogspot.com/2022/12/moving-to-github.html)
+- [Cybersecurity Vs Database Engineering](https://myseq.blogspot.com/2022/12/cybersecurity-vs-database-engineering.html)
+- [The different between Information security, security resilience and cybersecurity](https://myseq.blogspot.com/2022/12/the-different-between-information.html)
+- [Is there a difference between information security and Cybersecurity ?](https://myseq.blogspot.com/2022/12/is-there-difference-between-information.html)
+- [Setup Jekyll](https://myseq.blogspot.com/2022/12/setup-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
